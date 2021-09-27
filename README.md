@@ -2,7 +2,7 @@
 
 Hello! I am Bety Martínez
 
-I am studing an enginer career in software development. The technologies that I would like to dominate are **C#, JavaScript, CSS, C++**, among others.
+I am studing an enginer career in software development. The technologies that I would like to dominate are **C#, JavaScript, CSS, Java, Go**, among others.
 But I am open mind about learn other technologies tho.
 
 - Currently, I am improving little by little my knowledge about programming languajes. 💻
