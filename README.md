@@ -19,4 +19,4 @@ But I am open mind about learn other technologies tho.
 Contact me on:
 
 [![GitHub tris460](https://img.shields.io/github/followers/tris460?label=follow&style=social)](https://github.com/tris460)
-[![Linkedin: tris460](https://img.shields.io/badge/-tris460-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/betymartinez)](www.linkedin.com/in/betymartinez)
+[![Linkedin: tris460](https://img.shields.io/badge/-tris460-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betymartinez/)](https://www.linkedin.com/in/betymartinez/)
