@@ -32,7 +32,11 @@ Creation of a bot that collect information for any web page.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tris460&show_icons=true&theme=dracula&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tris460&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Contact me on:
+-------------
 
-[![GitHub tris460](https://img.shields.io/github/followers/tris460?label=follow&style=social)](https://github.com/tris460)
-[![Linkedin: tris460](https://img.shields.io/badge/-tris460-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betymartinez/)](https://www.linkedin.com/in/betymartinez/)
+## Contact me on: 📱
+
+GitHub: https://github.com/tris460
+Facebook: https://www.facebook.com/BettyMtzPerez/
+Linkedin: https://www.linkedin.com/in/betymartinez/
+Dev: https://dev.to/tris460
