@@ -36,7 +36,7 @@ Creation of a bot that collect information for any web page.
 
 ## Contact me on: 📱
 
-GitHub: https://github.com/tris460
-Facebook: https://www.facebook.com/BettyMtzPerez/
-Linkedin: https://www.linkedin.com/in/betymartinez/
-Dev: https://dev.to/tris460
+🐱🐙GitHub: https://github.com/tris460 <br> 
+🇫 Facebook: https://www.facebook.com/BettyMtzPerez/ <br>
+📇 Linkedin: https://www.linkedin.com/in/betymartinez/ <br>
+✍🏼 Dev: https://dev.to/tris460 <br>
