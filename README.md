@@ -3,7 +3,7 @@
 Hello! I am Bety Martínez
 
 I am studing an enginer career in software development. The languages that I would like to dominate are **C#, JavaScript, CSS, Java, Go**, among others.
-But I am open mind about learn other technologies tho.
+But I am open mind about learn other technologies tho, if you want, you can check my [portfolio](https://tris460.github.io/BeatrizMartinez/) (still in progress).
 
 - Currently, I am improving little by little my knowledge about programming languages. 💻
 - I would like to work in a software company as a programmer, my goal is to be the best. ⭐
@@ -15,7 +15,8 @@ But I am open mind about learn other technologies tho.
 
 Working on a page for the Arduino day: https://arduinodayags.com/ <br>
 An app similar to uber (in progress): https://quick-trips.herokuapp.com/ <br>
-Creation of a bot that collect information for any web page.
+Creation of a bot that collect information for any web page (in progress). <br>
+Mi personal portfolio (in progress): https://tris460.github.io/BeatrizMartinez/
 
 -------------
 
