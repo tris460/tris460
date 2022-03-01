@@ -2,7 +2,7 @@
 
 Hello! I am Bety Martínez
 
-I am studing an enginer career in software development. The languages that I would like to dominate are **C#, JavaScript, CSS, Java, Go**, among others.
+I am studing an enginer career in software development. The languages that I would like to dominate are **JavaScript, CSS, Angular, Ionic**, among others.
 But I am open mind about learn other technologies tho, if you want, you can check my [portfolio](https://tris460.github.io/BeatrizMartinez/) (still in progress).
 
 - Currently, I am improving little by little my knowledge about programming languages. 💻
@@ -22,8 +22,9 @@ Mi personal portfolio (in progress): https://tris460.github.io/BeatrizMartinez/
 
 ## About me 👩
 
+✔️ Winner of a scholarship to do my professional practices in USA. <br>
 ✔️ Currently working for Beelan. <br>
-✔️ Winner of Seeds for the Future 2021. <br>
+✔️ Winner of Seeds for the Future 2021 by Huawei. <br>
 ✔️ Contestant of OMM 2018 & TOMATE 2019.
 
 -------------
