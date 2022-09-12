@@ -13,8 +13,9 @@ But I am open mind about learn other technologies tho, if you want, you can chec
 
 ## Projects 👩‍💻
 
-Working on a page for the Arduino day: https://arduinodayags.com/ <br>
-An app similar to uber (in progress): https://quick-trips.herokuapp.com/ <br>
+Website for Pro Wrestling Show (in progress): https://prowrestlingshow.com/ <br>
+Landing page for the Arduino day: https://arduinodayags.com/ <br>
+An app similar to uber: https://quick-trips.herokuapp.com/ <br>
 Creation of a bot that collect information for any web page (in progress). <br>
 Mi personal portfolio (in progress): https://tris460.github.io/BeatrizMartinez/
 
@@ -22,7 +23,7 @@ Mi personal portfolio (in progress): https://tris460.github.io/BeatrizMartinez/
 
 ## About me 👩
 
-✔️ Winner of a scholarship to do my professional practices in USA. <br>
+✔️ Realization of my professional practices in USA. <br>
 ✔️ Currently working for Beelan. <br>
 ✔️ Winner of Seeds for the Future 2021 by Huawei. <br>
 ✔️ Contestant of OMM 2018 & TOMATE 2019.
