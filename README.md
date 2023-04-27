@@ -6,8 +6,8 @@ I am studing an enginer career in software development. The languages that I wou
 But I am open mind about learn other technologies tho, if you want, you can check my [portfolio](https://tris460.github.io/BeatrizMartinez/) (still in progress).
 
 - Currently, I am improving little by little my knowledge about programming languages. 💻
-- I would like to work in a software company as a programmer, my goal is to be the best. ⭐
-- I will take adventage of any oportunity I have, for experience or grow my knowledge. ✨
+- My goal is to be the best. ⭐
+- I will take adventage of any oportunity I havea. ✨
 
 -------------
 
@@ -15,7 +15,7 @@ But I am open mind about learn other technologies tho, if you want, you can chec
 
 Website for Pro Wrestling Show (in progress): https://prowrestlingshow.com/ <br>
 Landing page for the Arduino day: https://arduinodayags.com/ <br>
-Creation of a bot that collect information for any web page (in progress). <br>
+Creation of a bot that collect information for any web page [https://github.com/BeelanMX/scrapCFEBot](https://github.com/BeelanMX/scrapCFEBot). <br>
 Mi personal portfolio (in progress): [https://tris460.github.io/BeatrizMartinez/](https://tris460.github.io/BeatrizMartinez/)
 
 -------------
@@ -42,3 +42,7 @@ Mi personal portfolio (in progress): [https://tris460.github.io/BeatrizMartinez/
 🇫 Facebook: https://www.facebook.com/BettyMtzPerez/ <br>
 📇 Linkedin: https://www.linkedin.com/in/betymartinez/ <br>
 ✍🏼 Dev: https://dev.to/tris460 <br>
+
+## Or buy me a coffee 🍵
+
+💲 Via [PayPal](https://www.paypal.me/BeatrizMtzP) 💲
